@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "name": "pot1",
+            "pot_ref": "pot_dqsxq6w5",
+            "flower": "pétunia",
+            "creation_date": "2023-01-24",
+            "records": {
+                "humidity": "67",
+                "temperature": "23.5",
+                "luminosity": "112",
+                "water_level": "25%",
+                "battery_level": "70%"
+            }
+        },
+        {
+            "name": "pot2",
+            "pot_ref": "pot_qsez7qs5",
+            "flower": "rose",
+            "creation_date": "2023-01-21",
+            "records": {
+                "humidity": "31",
+                "temperature": "28",
+                "luminosity": "240",
+                "water_level": "0%",
+                "battery_level": "30%"
+            }
+        },
+        {
+            "name": "pot3",
+            "pot_ref": "pot_f8ez6sx",
+            "flower": "jacinthe",
+            "creation_date": "2023-01-17",
+            "records": {
+                "humidity": "50",
+                "temperature": "17",
+                "luminosity": "92",
+                "water_level": "75%",
+                "battery_level": "10%"
+            }
+        }
+    ]
+}
